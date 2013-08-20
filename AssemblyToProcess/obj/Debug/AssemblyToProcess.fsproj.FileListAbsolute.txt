@@ -1,0 +1,7 @@
+C:\Projekti\Mutable.Fody\AssemblyToProcess\bin\Debug\AssemblyToProcess.XML
+C:\Projekti\Mutable.Fody\AssemblyToProcess\bin\Debug\AssemblyToProcess.dll
+C:\Projekti\Mutable.Fody\AssemblyToProcess\bin\Debug\AssemblyToProcess.pdb
+C:\Projekti\Mutable.Fody\AssemblyToProcess\bin\Debug\FSharp.Core.dll
+C:\Projekti\Mutable.Fody\AssemblyToProcess\bin\Debug\FSharp.Core.xml
+C:\Projekti\Mutable.Fody\AssemblyToProcess\obj\Debug\AssemblyToProcess.dll
+C:\Projekti\Mutable.Fody\AssemblyToProcess\obj\Debug\AssemblyToProcess.pdb
